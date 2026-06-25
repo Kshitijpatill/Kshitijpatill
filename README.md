@@ -63,7 +63,8 @@ I combine mission-driven execution with systems thinking. While preparing for AF
 
 <p align="center">
   &nbsp;|&nbsp;<a href="mailto:kshitijpatil2024@gmail.com"><strong>kshitijpatil2024@gmail.com</strong></a>&nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/kshitijpatill/"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/kshitijpatill/"><strong>LinkedIn</strong></a>&nbsp;|&nbsp;
+  <a href="https://kshitijpatilportfolio.vercel.app/"><strong>Portfolio</strong></a>&nbsp;|&nbsp;
 <!--   <a href="https://github.com/Hotizen"><strong>GitHub</strong></a> -->
 </p>
 
